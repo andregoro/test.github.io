@@ -1,4 +1,3 @@
-# test.github.io
 <html>
 	<head>
 		<title>Projection by TEMPLATED</title>
